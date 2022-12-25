@@ -1,0 +1,11 @@
+.checkout-btn{
+    background-color: orange;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
+.review-items-container{
+    margin: 0 auto;
+}
